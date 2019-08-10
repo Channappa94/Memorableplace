@@ -13,6 +13,7 @@
 		49C910A622FE918A00B8FCB6 /* Memorableplace.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 49C910A422FE918A00B8FCB6 /* Memorableplace.xcdatamodeld */; };
 		49C910A822FE918C00B8FCB6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 49C910A722FE918C00B8FCB6 /* Assets.xcassets */; };
 		49C910AB22FE918C00B8FCB6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 49C910A922FE918C00B8FCB6 /* LaunchScreen.storyboard */; };
+		49C910B322FE95D400B8FCB6 /* locationTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49C910B222FE95D400B8FCB6 /* locationTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		49C910A722FE918C00B8FCB6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		49C910AA22FE918C00B8FCB6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		49C910AC22FE918C00B8FCB6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		49C910B222FE95D400B8FCB6 /* locationTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = locationTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				49C9109D22FE918A00B8FCB6 /* AppDelegate.swift */,
 				49C9109F22FE918A00B8FCB6 /* ViewController.swift */,
+				49C910B222FE95D400B8FCB6 /* locationTableViewController.swift */,
 				49C910A122FE918A00B8FCB6 /* Main.storyboard */,
 				49C910A722FE918C00B8FCB6 /* Assets.xcassets */,
 				49C910A922FE918C00B8FCB6 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				49C910B322FE95D400B8FCB6 /* locationTableViewController.swift in Sources */,
 				49C910A622FE918A00B8FCB6 /* Memorableplace.xcdatamodeld in Sources */,
 				49C910A022FE918A00B8FCB6 /* ViewController.swift in Sources */,
 				49C9109E22FE918A00B8FCB6 /* AppDelegate.swift in Sources */,
